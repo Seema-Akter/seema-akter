@@ -1,6 +1,9 @@
+
+(https://seemaakter.com/wp-content/uploads/2022/03/seema_akter_banner_.jpg)
+
 ### Hi there 👋, I'm Seema Akter
 #### Web Developer and Designer
-![Web Developer and Designer](https://seemaakter.com/wp-content/uploads/2022/03/seema_akter_banner_.jpg)
+![Web Developer and Designer]
 
 Hi, I am Seema , A professional web designer and developer. I have been working on web design and development for many years.
 
