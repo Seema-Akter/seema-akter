@@ -1,4 +1,4 @@
-![Web Developer and Designer](https://seemaakter.com/wp-content/uploads/2022/03/seema_akter_banner_.jpg)
+![Web Developer and Designer](https://seemaakter.com/wp-content/uploads/2022/03/seema_banner_1.jpg)
 
 ### Hi there 👋, I'm Seema Akter
 #### Web Developer and Designer
