@@ -4,7 +4,7 @@
 #### Web Developer and Designer
 
 
-Hi, I am Seema , A professional web designer and developer. I have been working on web design and development for many years.
+Hi, I am Seema , A professional web designer and developer.
 
 Skills: PHP/LARAVEL / JS / HTML / CSS
 
